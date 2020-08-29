@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConstraintLayout7</string>
+
+    <string name="guideline_25percent">Guideline 25%</string>
+    <string name="guideline_120dp">Guideline 120dp</string>
+    <string name="guideline_100dp">Guideline 100dp</string>
+    <string name="barrier_24dp">Barrier margin: 24dp</string>
+
+    <string name="item_name_1">Item name 1</string>
+    <string name="item_name_2">Very long item name in English</string>
+    <string name="item_name_3">A little longer item name</string>
+    <string name="item_name_4">Item name 4</string>
+
+    <string name="item_value_1">One</string>
+    <string name="item_value_2">Two</string>
+    <string name="item_value_3">Three</string>
+    <string name="item_value_4">Four</string>
+
+</resources>

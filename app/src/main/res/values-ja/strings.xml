@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConstraintLayout7</string>
+
+    <string name="guideline_25percent">ガイドライン 25%</string>
+    <string name="guideline_120dp">ガイドライン 120dp</string>
+    <string name="guideline_100dp">ガイドライン 100dp</string>
+    <string name="barrier_24dp">バリア マージン: 24dp</string>
+
+    <string name="item_name_1">項目名一</string>
+    <string name="item_name_2">ちょっと長めの項目名</string>
+    <string name="item_name_3">項目名三</string>
+    <string name="item_name_4">日本語で書くとやたらと長くなる項目名</string>
+
+    <string name="item_value_1">壱</string>
+    <string name="item_value_2">弐</string>
+    <string name="item_value_3">参</string>
+    <string name="item_value_4">肆</string>
+
+</resources>
